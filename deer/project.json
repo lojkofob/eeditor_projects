@@ -1,0 +1,7 @@
+{
+
+    "plugins": [
+        "project/plugins/render_deer"
+    ]
+
+}

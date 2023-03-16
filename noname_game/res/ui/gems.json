@@ -1,0 +1,339 @@
+{
+  "packed": [
+    {
+      "c": "#54547e",
+      "i": "gem1",
+      "n": "white",
+      "ud": {
+        "pt": 1,
+        "spin": {},
+        "asd": true,
+        "aot": false,
+        "onActivated": "selectDir, spawn white",
+        "onTap": "activate"
+      },
+      "B": "hsv",
+      "o": {
+        "x": -60,
+        "y": -153,
+        "z": -1
+      }
+    },
+    {
+      "c": "#aed46e",
+      "i": "gem1",
+      "n": "redr",
+      "ud": {
+        "aot": false,
+        "pt": 2,
+        "spin": {},
+        "cbm": true,
+        "hdf": true,
+        "ros": false,
+        "onActivated": "spawn white",
+        "onTap": "activate",
+        "onSpawn": ""
+      },
+      "B": "hsv",
+      "_": [
+        {
+          "s": {
+            "y": 18,
+            "x": 18
+          },
+          "c": 0.926,
+          "__alpha": 0.7,
+          "i": "prt1",
+          "R": 45,
+          "bl": 2,
+          "o": {
+            "x": 14
+          }
+        }
+      ],
+      "o": {
+        "x": 21,
+        "y": -209,
+        "z": -1
+      }
+    },
+    {
+      "c": "#aed46e",
+      "i": "gem1",
+      "n": "red",
+      "ud": {
+        "aot": false,
+        "spin": {},
+        "asd": true,
+        "cbm": true,
+        "pt": 2,
+        "hdf": true,
+        "onActivated": "selectDir, spawn red",
+        "onTap": "activate"
+      },
+      "B": "hsv",
+      "o": {
+        "x": -61,
+        "y": -210,
+        "z": -1
+      }
+    },
+    {
+      "c": "#a6a969",
+      "i": "gem1",
+      "n": "pink",
+      "ud": {
+        "pt": 3,
+        "spin": "",
+        "cbg": false,
+        "asd": true,
+        "aot": false,
+        "onActivated": "selectDir, spawn pink",
+        "onTap": "activate"
+      },
+      "B": "hsv",
+      "o": {
+        "x": -58,
+        "y": -100,
+        "z": -1
+      }
+    },
+    {
+      "c": "#a6a969",
+      "i": "gem1",
+      "n": "pinkr",
+      "ud": {
+        "pt": 3,
+        "spin": "",
+        "aot": false,
+        "ros": false,
+        "roa": false,
+        "mfts": true,
+        "onActivated": "moveFriends, spawn white, rotate",
+        "onTap": "activate",
+        "onSpawn": {}
+      },
+      "B": "hsv",
+      "_": [
+        {
+          "s": {
+            "y": 18,
+            "x": 18
+          },
+          "c": 0.926,
+          "__alpha": 0.7,
+          "i": "prt1",
+          "R": 45,
+          "bl": 2,
+          "o": {
+            "x": 14
+          }
+        }
+      ],
+      "o": {
+        "x": 22,
+        "y": -98,
+        "z": -1
+      }
+    },
+    {
+      "c": "#ffb881",
+      "i": "gem1",
+      "n": "blue",
+      "ud": {
+        "aot": false,
+        "ai": {},
+        "pt": 5,
+        "cbg": true,
+        "cby": true,
+        "cbm": true,
+        "accel_factor": false,
+        "onActivated": "resetInterval 2",
+        "onInterval": "activateFriends",
+        "onTap": "activate",
+        "onSpawn": "activate"
+      },
+      "B": "hsv",
+      "o": {
+        "x": -57,
+        "y": 26,
+        "z": -1
+      }
+    },
+    {
+      "c": "#53cb46",
+      "i": "gem1",
+      "n": "green",
+      "ud": {
+        "aot": false,
+        "pt": 4,
+        "ai": {},
+        "cbg": true,
+        "cn": {},
+        "cnf": {},
+        "aos": false,
+        "cbd": false,
+        "onSpawn": "setInterval 1",
+        "onInterval": "convertFriend green",
+        "onTap": "activate",
+        "onActivated": "convertIn white"
+      },
+      "B": "hsv",
+      "o": {
+        "x": -57,
+        "y": -42,
+        "z": -1
+      }
+    },
+    {
+      "c": "#16161d",
+      "i": "gem1",
+      "n": "black",
+      "ud": {
+        "cbm": true,
+        "cbg": true,
+        "cby": true,
+        "pt": 7
+      },
+      "B": "hsv",
+      "o": {
+        "x": -52,
+        "y": 173,
+        "z": -1
+      }
+    },
+    {
+      "c": "#ffd55f",
+      "i": "gem1",
+      "n": "bluea",
+      "ud": {
+        "cby": true,
+        "cbg": true,
+        "cbm": true,
+        "aos": false,
+        "ai": {},
+        "icba": true,
+        "accel_factor": false,
+        "onSpawn": "setInterval 0.2",
+        "onInterval": "activate",
+        "onActivated": "activateFriends",
+        "pt": 8
+      },
+      "B": "hsv",
+      "o": {
+        "x": -57,
+        "y": 101,
+        "z": -1
+      }
+    },
+    {
+      "s": {
+        "y": 40,
+        "x": 40
+      },
+      "c": "#baf292",
+      "i": "gem1",
+      "R": 45,
+      "n": "yellow",
+      "ud": {
+        "cbg": true,
+        "cby": false,
+        "aos": false,
+        "ai": {},
+        "aot": false,
+        "df": false,
+        "pt": 9,
+        "onInterval": "destroyFriends",
+        "onTap": "activate",
+        "onActivated": "resetInterval 1.1",
+        "onSpawn": "activate"
+      },
+      "B": "hsv",
+      "o": {
+        "x": -49,
+        "y": 257,
+        "z": -10
+      }
+    },
+    {
+      "c": "#9ca575",
+      "i": "gem1",
+      "R": 45,
+      "n": "pinkblue",
+      "ud": {
+        "aot": false,
+        "ai": {},
+        "pt": 6,
+        "cbg": false,
+        "cby": false,
+        "cbm": false,
+        "accel_factor": false,
+        "onActivated": "rotate",
+        "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+        "onTap": "activate",
+        "onSpawn": "setInterval 0.7"
+      },
+      "B": "hsv",
+      "_": [
+        {
+          "s": {
+            "y": 18,
+            "x": 18
+          },
+          "c": "#b16666",
+          "__alpha": 1.9,
+          "i": "prt1",
+          "R": 45,
+          "o": {
+            "x": 12,
+            "y": 14
+          }
+        }
+      ],
+      "o": {
+        "x": 30,
+        "y": 22,
+        "z": -1
+      }
+    },
+    {
+      "c": "#e9ff8c",
+      "i": "gem1",
+      "n": "mover",
+      "ud": {
+        "aot": false,
+        "ai": {},
+        "pt": 10,
+        "cbg": false,
+        "cby": true,
+        "cbm": false,
+        "accel_factor": false,
+        "onActivated": "rotate",
+        "onInterval": "moveFriends",
+        "onTap": "activate",
+        "onSpawn": "setInterval 0.5"
+      },
+      "B": "hsv",
+      "_": [
+        {
+          "s": {
+            "y": 24,
+            "x": 34
+          },
+          "fi": 1,
+          "c": 0,
+          "__alpha": 0.7,
+          "i": "arrow",
+          "o": {
+            "x": 2
+          }
+        }
+      ],
+      "o": {
+        "x": 27,
+        "y": 98,
+        "z": -1
+      }
+    }
+  ]
+}

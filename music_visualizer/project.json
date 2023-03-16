@@ -1,0 +1,138 @@
+{
+
+    "version":"1.0.0",
+    
+    
+    "options": {
+        "__disablePacking": 1,
+        "__storeChildsAsObject": 1
+    },
+    
+    "res":[
+        [ "atlas", "build_res/atlas-0.png?", "build_res/atlas-0.json?" ]
+    ],
+    
+    "src": {
+        "../../eeditor/engine/":[
+            "3rdparty/bowser.js",
+            "3rdparty/howler.core.js",
+            
+            "nosupport.js",
+            "globals.js",
+            "basicTypes.js",
+            "html.js",
+            "renderer.js",
+            "object3d.js",
+            "wfont.js",
+            "camera.js",
+            "events.js",
+            "sound.js",
+            "state.js",
+            "shadow.js",
+            "bus.js",
+            "node.js",
+            "engine.js",
+            "an.js",
+            "loadtasks.js",
+            
+            "particles.js",
+            "text.js",
+            "timer.js",
+            "tweens.js",
+            "windows.js"
+        ],
+        
+        "src/": [
+            "loading.js",
+            "main.js"
+        ]
+        
+    },
+    
+    "build_targets":{
+        
+        "ATLAS":[
+            { 
+                "type":"atlas",
+                "name":"atlas",
+                "width":256,
+                "height":256,
+                "src": "./res/img/**/*.png" ,
+                "dst":"build_res/",
+                "useXgenTexturePacker": 1,
+                "arrayFormat":1
+            }
+        ],
+        
+        
+        "DATA":[
+            {
+                "type":"datacache",
+                "src":[
+                    "shaders/*", 
+                    "layouts/*",
+                    "build_res/atlas-0.png",
+                    "build_res/atlas-0.json"
+                ],
+                "dst":"build_res/data.js",
+                "basedir":"res/"
+            }
+        ],
+        
+        "JSMINIFY":[
+            {
+                "type":"minify",
+                "_advanced": 1,
+                "src":["@/src", "build_res/data.js"],
+                "dst":"build_res/min.js",
+                "args":"--myminify --rmdebug debug/undebug,cheats/endcheats",
+                "wrap":1,
+                "es6": 1
+            },
+            {
+                "type":"clean",
+                "src":["min_*.js"]
+            },
+            
+            {
+                "type":"minify",
+                "advanced": 1,
+                "src":["build_res/min.js"],
+                "dst":"build_res/min2.js"
+            }
+        ],
+        
+        
+        "PACK":[
+            { 
+                "type": "packIntoOneFile",
+                "dst": "builds/$version/index.html",
+                "sourceFile": "build_res/index.html",
+                "src":{
+                    "/*min.js*/": "build_res/min2.js"
+                }
+            },
+            
+            {
+                "type":"clean",
+                "src":["min_*.js", "builds/$version/min_min.js"]
+            }
+            
+        ],
+        
+        "PRODUCTION":[
+            {
+                "type":"clean",
+                "src":"builds/$version/*"
+            },
+            {  "type":"target", "src":["DATA", "JSMINIFY", "PACK"] }
+            
+        ],
+        
+        "ALL": [
+            { "type":"target", "src":["ATLAS", "PRODUCTION"] }
+        ]
+        
+    }
+    
+}

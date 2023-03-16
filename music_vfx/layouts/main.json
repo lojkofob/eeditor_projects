@@ -1,0 +1,200 @@
+[
+  {
+    "__color": 0.163,
+    "__size": [
+      1,
+      1
+    ],
+    "__childs": {
+      "n1": {
+        "__img": "prt3",
+        "__size": [
+          22,
+          22
+        ],
+        "__ofs": [
+          -47,
+          0,
+          -2
+        ],
+        "__effect": {
+          "emitters": [
+            {
+              "loop": 1,
+              "__angleMod": 3,
+              "duration": -1,
+              "texture": "prt7",
+              "lifespan": [
+                5,
+                2
+              ],
+              "rate": [
+                1000
+              ],
+              "power": [
+                200
+              ],
+              "origin": {
+                "x": [
+                  0,
+                  500
+                ],
+                "y": [
+                  0,
+                  500
+                ]
+              },
+              "__componentsList": [
+                {
+                  "__componentType": "d",
+                  "direction": [
+                    0,
+                    180
+                  ],
+                  "velocity": [
+                    0,
+                    10
+                  ],
+                  "size": {
+                    "width": [
+                      15,
+                      6
+                    ],
+                    "height": [
+                      5,
+                      2
+                    ]
+                  },
+                  "spin": [
+                    0
+                  ]
+                },
+                {
+                  "__componentType": "c",
+                  "color": {
+                    "r": 255,
+                    "g": [
+                      150,
+                      100
+                    ],
+                    "b": [
+                      150,
+                      100
+                    ],
+                    "a": [
+                      150,
+                      100
+                    ]
+                  },
+                  "color_factor": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "n2": {
+        "__img": "prt3",
+        "__size": [
+          36,
+          34
+        ],
+        "__ofs": [
+          54,
+          3,
+          -2
+        ],
+        "__effect": {
+          "emitters": [
+            {
+              "loop": 1,
+              "__angleMod": 3,
+              "duration": -1,
+              "texture": "prt7",
+              "lifespan": [
+                5,
+                2
+              ],
+              "rate": [
+                1000
+              ],
+              "power": [
+                200
+              ],
+              "origin": {
+                "x": [
+                  0,
+                  500
+                ],
+                "y": [
+                  0,
+                  500
+                ]
+              },
+              "__componentsList": [
+                {
+                  "__componentType": "d",
+                  "direction": [
+                    0,
+                    180
+                  ],
+                  "velocity": [
+                    0,
+                    20
+                  ],
+                  "size": {
+                    "width": [
+                      15,
+                      6
+                    ],
+                    "height": [
+                      5,
+                      2
+                    ]
+                  },
+                  "spin": [
+                    0
+                  ]
+                },
+                {
+                  "__componentType": "c",
+                  "color": {
+                    "r": 255,
+                    "g": [
+                      150,
+                      100
+                    ],
+                    "b": [
+                      150,
+                      100
+                    ],
+                    "a": [
+                      150,
+                      100
+                    ]
+                  },
+                  "color_factor": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "text1": {
+        "__size": [
+          100,
+          38
+        ],
+        "__text": {
+          "__text": "drag"
+        },
+        "__y": 40
+      }
+    },
+    "__effect": {}
+  }
+]

@@ -1,0 +1,1343 @@
+[
+  {
+    "__size": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "__childs": [
+      {
+        "__color": 0.0917,
+        "name": "_time",
+        "__padding": [
+          0,
+          6,
+          0,
+          6
+        ],
+        "__alpha": 0.8,
+        "ha": 3,
+        "va": 1,
+        "sha": 0,
+        "sva": 0,
+        "__size": [
+          517,
+          45,
+          "o"
+        ],
+        "__childs": [
+          {
+            "__color": "#3f4b91",
+            "name": "date",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              155,
+              36
+            ],
+            "__text": {
+              "__text": "1"
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3f4b91",
+            "name": "clock",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              74,
+              38
+            ],
+            "__text": {
+              "__charw": 12,
+              "__text": "11:11",
+              "__autoscale": 1
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3b3f56",
+            "name": "x1",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              40,
+              38
+            ],
+            "__text": {
+              "__fontsize": 20,
+              "__text": "*1",
+              "__autoscale": 1
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3b3f56",
+            "name": "x2",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              40,
+              38
+            ],
+            "__text": {
+              "__fontsize": 20,
+              "__text": "*2",
+              "__autoscale": 1
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3b3f56",
+            "name": "x4",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              40,
+              38
+            ],
+            "__text": {
+              "__fontsize": 20,
+              "__text": "*4",
+              "__autoscale": 1
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3b3f56",
+            "name": "x8",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              40,
+              38
+            ],
+            "__text": {
+              "__fontsize": 20,
+              "__text": "*8",
+              "__autoscale": 1
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3b3f56",
+            "name": "x16",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              40,
+              38
+            ],
+            "__text": {
+              "__fontsize": 20,
+              "__text": "*16",
+              "__autoscale": 1
+            },
+            "__z": -1
+          },
+          {
+            "__color": "#3b3f56",
+            "name": "x32",
+            "__spacing": 3,
+            "ha": 1,
+            "va": 1,
+            "__size": [
+              40,
+              38
+            ],
+            "__text": {
+              "__fontsize": 20,
+              "__text": "*32",
+              "__autoscale": 1
+            },
+            "__z": -1
+          }
+        ]
+      },
+      {
+        "__color": "#da7000",
+        "name": "skipNight",
+        "__padding": [
+          0,
+          8,
+          0,
+          8
+        ],
+        "sha": 0,
+        "sva": 0,
+        "__size": [
+          371,
+          45,
+          "o"
+        ],
+        "__text": {
+          "__text": "Wait"
+        },
+        "__x": 528
+      },
+      {
+        "__color": 0.0917,
+        "name": "_PI2bar",
+        "__padding": [
+          3,
+          5,
+          4,
+          5
+        ],
+        "__alpha": 0.8,
+        "ha": 1,
+        "va": 3,
+        "sha": 0,
+        "sva": 0,
+        "__size": [
+          259,
+          207,
+          0,
+          "o"
+        ],
+        "__ofs": [
+          0,
+          53,
+          -45
+        ],
+        "__childs": [
+          {
+            "name": "__fullPbar",
+            "__spacing": [
+              0,
+              0,
+              10,
+              0
+            ],
+            "__size": [
+              1,
+              58,
+              1
+            ],
+            "__childs": [
+              {
+                "name": "title",
+                "sha": 1,
+                "sva": 0,
+                "__size": [
+                  1,
+                  20,
+                  1
+                ],
+                "__text": {
+                  "__color": "#28f2f2",
+                  "__fontsize": 17,
+                  "__text": "PI2 progress"
+                },
+                "__y": 2
+              },
+              {
+                "name": "bar",
+                "sha": 1,
+                "sva": 0,
+                "__size": [
+                  249,
+                  26
+                ],
+                "__y": 27,
+                "__childs": [
+                  {
+                    "__color": "#6a6050",
+                    "__selectable": false,
+                    "sha": 1,
+                    "sva": 0,
+                    "__size": [
+                      1,
+                      26,
+                      1
+                    ]
+                  },
+                  {
+                    "__color": "#28f2f2",
+                    "name": "fll",
+                    "__selectable": false,
+                    "sha": 0,
+                    "sva": 0,
+                    "__corner": [
+                      -19,
+                      18
+                    ],
+                    "__size": [
+                      0.2,
+                      26,
+                      1
+                    ],
+                    "__z": -1
+                  },
+                  {
+                    "name": "txt",
+                    "__selectable": false,
+                    "sha": 1,
+                    "sva": 0,
+                    "__size": [
+                      1,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#11275b",
+                      "__fontsize": 26,
+                      "__charw": 15,
+                      "__text": "123",
+                      "__autoscale": 1
+                    },
+                    "__ofs": [
+                      0,
+                      1,
+                      -5
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__color": 0,
+            "name": "details",
+            "__spacing": [
+              -4,
+              0,
+              0,
+              0
+            ],
+            "__alpha": 0.1,
+            "ha": 1,
+            "va": 3,
+            "__visible": 0,
+            "__size": [
+              249,
+              135
+            ],
+            "__childs": [
+              {
+                "__color": "#28f2f2",
+                "__spacing": [
+                  0,
+                  0,
+                  5,
+                  0
+                ],
+                "__size": [
+                  1,
+                  2,
+                  1
+                ]
+              },
+              {
+                "name": "__gdPbar",
+                "__size": [
+                  249,
+                  34
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1597d7",
+                      "__fontsize": 17,
+                      "__text": "GD"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1597d7",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          141,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "__artPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1597d7",
+                      "__fontsize": 17,
+                      "__text": "art"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          1,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1597d7",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "__devPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1597d7",
+                      "__fontsize": 17,
+                      "__text": "dev"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          26,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1597d7",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "__qcPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1597d7",
+                      "__fontsize": 17,
+                      "__text": "qc"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          26,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1597d7",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__color": 0.0917,
+        "name": "_MMbar",
+        "__padding": [
+          3,
+          5,
+          4,
+          5
+        ],
+        "__alpha": 0.8,
+        "ha": 1,
+        "va": 3,
+        "sha": 0,
+        "sva": 0,
+        "__size": [
+          259,
+          207,
+          0,
+          "o"
+        ],
+        "__ofs": [
+          264,
+          53,
+          -45
+        ],
+        "__childs": [
+          {
+            "name": "__fullPbar",
+            "__spacing": [
+              0,
+              0,
+              10,
+              0
+            ],
+            "__size": [
+              1,
+              58,
+              1
+            ],
+            "__childs": [
+              {
+                "name": "title",
+                "sha": 1,
+                "sva": 0,
+                "__size": [
+                  1,
+                  20,
+                  1
+                ],
+                "__text": {
+                  "__color": "#4bec22",
+                  "__fontsize": 17,
+                  "__text": "MM progress"
+                },
+                "__y": 2
+              },
+              {
+                "name": "bar",
+                "sha": 1,
+                "sva": 0,
+                "__size": [
+                  249,
+                  26
+                ],
+                "__y": 27,
+                "__childs": [
+                  {
+                    "__color": "#6a6050",
+                    "__selectable": false,
+                    "sha": 1,
+                    "sva": 0,
+                    "__size": [
+                      1,
+                      26,
+                      1
+                    ]
+                  },
+                  {
+                    "__color": "#4bec22",
+                    "name": "fll",
+                    "__selectable": false,
+                    "sha": 0,
+                    "sva": 0,
+                    "__corner": [
+                      -19,
+                      18
+                    ],
+                    "__size": [
+                      0.2,
+                      26,
+                      1
+                    ],
+                    "__z": -1
+                  },
+                  {
+                    "name": "txt",
+                    "__selectable": false,
+                    "sha": 1,
+                    "sva": 0,
+                    "__size": [
+                      1,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#11275b",
+                      "__fontsize": 26,
+                      "__charw": 15,
+                      "__text": "123",
+                      "__autoscale": 1
+                    },
+                    "__ofs": [
+                      0,
+                      1,
+                      -5
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__color": 0,
+            "name": "details",
+            "__spacing": [
+              -4,
+              0,
+              0,
+              0
+            ],
+            "__alpha": 0.1,
+            "ha": 1,
+            "va": 3,
+            "__visible": 0,
+            "__size": [
+              249,
+              135
+            ],
+            "__childs": [
+              {
+                "__color": "#4bec22",
+                "__spacing": [
+                  0,
+                  0,
+                  5,
+                  0
+                ],
+                "__size": [
+                  1,
+                  2,
+                  1
+                ]
+              },
+              {
+                "name": "__gdPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1f9a00",
+                      "__fontsize": 17,
+                      "__text": "GD"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          26,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1f9a00",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "__artPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1f9a00",
+                      "__fontsize": 17,
+                      "__text": "art"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          26,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1f9a00",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "__devPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1f9a00",
+                      "__fontsize": 17,
+                      "__text": "dev"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          26,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1f9a00",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "__qcPbar",
+                "__size": [
+                  1,
+                  34,
+                  1
+                ],
+                "__childs": [
+                  {
+                    "name": "title",
+                    "ha": 2,
+                    "va": 1,
+                    "sha": 0,
+                    "sva": 0,
+                    "__size": [
+                      30,
+                      23
+                    ],
+                    "__text": {
+                      "__color": "#1f9a00",
+                      "__fontsize": 17,
+                      "__text": "qc"
+                    },
+                    "__ofs": [
+                      4,
+                      3
+                    ]
+                  },
+                  {
+                    "name": "bar",
+                    "sha": 2,
+                    "sva": 0,
+                    "__size": [
+                      210,
+                      26
+                    ],
+                    "__childs": [
+                      {
+                        "__color": "#6a6050",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          26,
+                          1
+                        ]
+                      },
+                      {
+                        "__color": "#1f9a00",
+                        "name": "fll",
+                        "__selectable": false,
+                        "sha": 0,
+                        "sva": 0,
+                        "__corner": [
+                          -19,
+                          18
+                        ],
+                        "__size": [
+                          0.2,
+                          26,
+                          1
+                        ],
+                        "__z": -1
+                      },
+                      {
+                        "name": "txt",
+                        "__selectable": false,
+                        "sha": 1,
+                        "sva": 0,
+                        "__size": [
+                          1,
+                          23
+                        ],
+                        "__text": {
+                          "__color": "#11275b",
+                          "__fontsize": 26,
+                          "__charw": 15,
+                          "__text": "123",
+                          "__autoscale": 1
+                        },
+                        "__ofs": [
+                          0,
+                          1,
+                          -5
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__color": 0.0917,
+        "name": "manInfo",
+        "__padding": 8,
+        "__alpha": 0.8,
+        "ha": 0,
+        "va": 0,
+        "sha": 0,
+        "sva": 2,
+        "__size": [
+          522,
+          270
+        ],
+        "__text": {
+          "__text": "manInfo",
+          "__align": 0
+        },
+        "__z": -10,
+        "__childs": [
+          {
+            "__color": "#584e29",
+            "name": "cameraFollow",
+            "__padding": [
+              4,
+              4,
+              0,
+              0
+            ],
+            "sha": 0,
+            "sva": 2,
+            "__size": [
+              60,
+              50
+            ],
+            "__childs": [
+              {
+                "name": "cameraFollow",
+                "__padding": [
+                  4,
+                  4,
+                  0,
+                  0
+                ],
+                "__img": "cam",
+                "__scaleF": 2,
+                "__ofs": [
+                  -1,
+                  -2
+                ]
+              }
+            ]
+          },
+          {
+            "__color": "#584e29",
+            "name": "work",
+            "__padding": [
+              4,
+              4,
+              0,
+              0
+            ],
+            "sha": 0,
+            "sva": 2,
+            "__size": [
+              439,
+              50
+            ],
+            "__text": {
+              "__fontsize": 23,
+              "__text": "work"
+            },
+            "__x": 67
+          },
+          {
+            "__color": "#0f5779",
+            "name": "tempDebug",
+            "__padding": [
+              4,
+              4,
+              0,
+              0
+            ],
+            "sha": 2,
+            "sva": 2,
+            "__visible": 0,
+            "__size": [
+              128,
+              50
+            ],
+            "__text": {
+              "__fontsize": 16,
+              "__text": "tempDebug"
+            }
+          },
+          {
+            "__color": "#62571d",
+            "name": "close",
+            "__padding": [
+              4,
+              4,
+              0,
+              0
+            ],
+            "sha": 2,
+            "sva": 0,
+            "__size": [
+              39,
+              35
+            ],
+            "__text": {
+              "__fontsize": 31,
+              "__text": "*"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

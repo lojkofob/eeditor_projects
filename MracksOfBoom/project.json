@@ -1,0 +1,284 @@
+{
+
+    "version":"1.1.0",
+    
+    "buildFlags": { 
+        "version": "@/version"
+    },
+    
+    "head":{
+        "icon": [16, 32, 48, 57, 60, 72, 76, 96, 114, 120, 144, 152, 180, 192, 196, 228],
+        "apple-touch-icon": [57, 60, 72, 76, 114, 120, 144, 152],
+        "title": "MracksOfBoom",
+
+        "meta":{
+            "description":"Mrak's birthday game",
+            "keywords" :"",
+            "author":"",
+            "copyright":"2018",
+            "robots":"noindex",
+            "viewport":"width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale:1.0",
+            "apple-mobile-web-app-capable":"yes",
+            "mobile-web-app-capable":"yes"
+        }
+    },
+    
+    "src": {
+        "../../eeditor/engine/":[
+            "3rdparty/es6-shim.js",
+            "3rdparty/bowser.js",
+            "3rdparty/howler.core.js",
+            
+            "globals.js",
+            "bus.js",
+            "basicTypes.js",
+            "renderer.js",
+            "object3d.js",
+            "camera.js",
+            "events.js",
+            "sound.js",
+            "shadow.js",
+            "node.js",
+            "engine.js",
+            "html.js",
+            "wfont.js",
+            "loadtasks.js",
+            "particles.js",
+            "localization.js",
+            "text.js",
+            "timer.js",
+            "tweens.js",
+            "windows.js"
+        ],
+        "src/": [
+            "loading.js",
+            "main.js",
+            "misc.js",
+            "gestures.js",
+            "plugin.js",
+            "peoples.js"
+        ]
+        
+    },
+      
+    "plugins": [
+        "project/src/plugin.js"
+    ],
+    
+    "options": {
+        "__supportedLangs": ["ru"],
+        "__defaultTextProperties": {
+            "__fontface": "pixel"
+        },
+        "__projectServerPath":"res/",
+        "__localesDir": "lang/",
+        "__baseShadersFolder":"shaders/",
+        "__baseLayoutsFolder":"ui/", 
+        "__baseParticlesFolder":"vfx/",
+        "__baseFontsFolder":"fonts/",
+        "__baseConfigsFolder":"conf/",
+        "__disablePacking": 1
+    },
+      
+    "res":[
+        [ "atlas", "build_res/atlas-0.png?", "build_res/atlas-0.json?" ],
+        [ "atlas", "build_res/peoples-0.png?", "build_res/peoples-0.json?" ],
+        [ "atlas", "build_res/pc-0.png?", "build_res/pc-0.json?" ],
+        [ "atlas", "build_res/pc-1.png?", "build_res/pc-1.json?" ],
+        [ "atlas", "build_res/slack-atlas.png?", "build_res/slack-atlas.json?" ],
+        [ "sound", "build_res/sounds.json?" ],
+        [ "config", "behaviours.json", "workers.json" ],
+        [ "locale" ],
+        [ "font", [ "pixel" ] ],
+        [ "layout", "scene.json", "gui.json", "welcomeWindow.json", "congrat.json", "fail.json"],
+        [ "shaders", "base.f", "base.v", "base2.f", "blur.f", "c.f", "circle.f", "color.f", "colorize.f", "gold.f", "gray.f", "gray2.f", "grayer.f", "hsv.f", "part.f", "part.v", "partnc.f", "partnc.v", "refract.f", "sectorCrop.f", "sectorCrop2.f", "simpleblur.f", "tiled.f", "potolok.f" ],
+        [ "player" ]
+    ],
+    
+    "build_targets":{
+    
+        "SOUNDS":[
+            {
+                "type":"sounds",
+                "src":"res/sounds/*",
+                "dst":"build_res/"
+            }
+        ],
+        
+        "ICONS":[
+            {
+                "type":"icons",
+                "src":"fvi/228.png",
+                "dst":"fvi/",
+                "name":"[size].png",
+                "sizes":[16, 32, 48, 57, 60, 72, 76, 96, 114, 120, 144, 152, 180, 192, 196, 228]
+            }
+        ],
+        
+        "PREVIEWS":[
+            {
+                "type":"icons",
+                "src": "res/img/**/*.png",
+                "dst":"previews/",
+                "name":"[filename]_preview.png",
+                "sizes":[32]
+            },
+            { 
+                "type":"atlas",
+                "name":"atlas-preview",
+                "width":2048,
+                "height":2048,
+                "src": "previews",
+                "dst":"./",
+                "useXgenTexturePacker": 1
+            }, 
+            {
+                "type":"clean",
+                "src":"previews"
+            }
+        ],
+        
+        "PEOPLES_ATLAS":[
+             { 
+                "type":"atlas",
+                "name":"peoples",
+                "width":2048,
+                "height":2048,
+                "src": "./res/peoplesimg/**/*.*",
+                "dst":"build_res/",
+                "useXgenTexturePacker": 1,
+                "arrayFormat":1,
+                "format" : "shortWithOffset",
+                "relativeNames": 1
+            },
+            
+            { 
+                "type":"replaceinfile",
+                "sourceFile":"build_res/peoples-0.json",
+                "dst":"build_res/peoples-0.json",
+                "src": {
+                    "...res..peoplesimg..":"",
+                    "\\\\/": "_"
+                }
+            }
+        ],
+        
+        "PC_ATLAS":[
+             { 
+                "type":"atlas",
+                "name":"pc",
+                "width":2048,
+                "height":2048,
+                "border": 0,
+                "src": "./res/pc_anim/**/*.*",
+                "dst":"build_res/",
+                "useXgenTexturePacker": 1,
+                "arrayFormat":1,
+                "packerType": 0,
+                "packerMethod": 3, 
+                "format" : "shortWithOffset",
+                "relativeNames": 1
+            },
+            
+            { 
+                "type":"replaceinfile",
+                "sourceFile":"build_res/pc-0.json",
+                "dst":"build_res/pc-0.json",
+                "src": {
+                    "...res..pc_anim..":"pc_anim_",
+                    "\\\\/": "_"
+                }
+            }
+        ],
+        
+        "ATLAS":[
+            { 
+                "type":"atlas",
+                "name":"atlas",
+                "width":2048,
+                "height":2048,
+                "src": "./res/img/**/*.*",
+                "dst":"build_res/",
+                "useXgenTexturePacker": 1,
+                "arrayFormat":1,
+                "_verbose":1
+            }
+        ],
+        
+        "DATA":[
+            {
+                "type":"file", 
+                "name":"opts.json", 
+                "dst":"build_res/", 
+                "content":{
+                    "options": "@/options",
+                    "res":"@/res",
+                    "version":"$version"
+                }
+            },
+            {
+                "type":"datacache",
+                "src":["res/conf/*.json", "res/shaders/*", "res/ui/*.json", "res/vfx/*.json", "build_res/*.json", "res/db/**/*.json"],
+                "dst":"build_res/data.js",
+                "basedir":"res/"
+            }
+        ],
+        
+        "JSMINIFY":[
+            {
+                "type":"clean",
+                "src":"build_log.txt"
+            },
+            {
+                "type":"minify",
+                "advanced": 1,
+                "src":["@/src", "build_res/data.js"],
+                "dst":"build_res/min.js",
+                "args":"--rmdebug debug/undebug,cheats/endcheats",
+                "wrap":1,
+                "log": "build_log.txt"
+            },
+            {
+                "type":"clean",
+                "src":["min_*.js"]
+            }
+        ],
+        
+        "PRODUCTION":[
+            {
+                "type":"clean",
+                "src":"builds/$version/*"
+            },
+            {  "type":"target", "src":["DATA", "JSMINIFY", "PROJECTFILE"] },
+            {  "type":"copy", "src":["build_res", "loader.js", "index.html"], "dst":"builds/$version/" },
+            {  "type":"copy", "src":"res/fonts", "dst":"builds/$version/res/" },
+            {  "type":"copy", "src":"res/db", "dst":"builds/$version/res/" },
+            {  "type":"copy", "src":"res/lang", "dst":"builds/$version/res/" },
+            {
+                "type":"clean",
+                "src":[
+                    "builds/$version/build_res/data.js"
+                ]
+            }
+        ],
+        
+        "PROJECTFILE":[
+            {
+                "type":"file", 
+                "name":"project.json", 
+                "dst":"builds/$version/", 
+                "content":{
+                    "version":"$version",
+                    "head":{ "title":"@/head/title", "meta":"@/head/meta" },
+                    "src": { "":[ "build_res/min.js" ] }
+                }
+            }
+        ],
+        
+        "ALL": [
+            { "type":"target", "src":["ATLAS", "ICONS", "PREVIEWS", "PRODUCTION"] }
+        ]
+        
+    }
+    
+}

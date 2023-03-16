@@ -1,0 +1,89 @@
+{
+    "mmxgen": "~/work/mhouse_xgen",
+    "buildFlags": {
+        "version": "1.0.0"
+    },
+    "plugins": [],
+    "head": {
+        "title": "SerzinSound",
+        "icon": [
+            72
+        ],
+        "apple-touch-icon": [
+            72
+        ],
+        "meta": {
+            "description": "SerzinSound music-vfx",
+            "keywords": "SerzinSound music-vfx",
+            "robots": "noindex",
+            "viewport": "width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale:1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "mobile-web-app-capable": "yes"
+        }
+    },
+    "src": {
+        "../../eeditor/engine/": [
+            "3rdparty/bowser.js",
+            "3rdparty/howler.core.js",
+            "nosupport.js",
+            "globals.js",
+            "basicTypes.js",
+            "html.js",
+            "renderer.js",
+            "object3d.js",
+            "wfont.js",
+            "camera.js",
+            "events.js",
+            "sound.js",
+            "state.js",
+            "shadow.js",
+            "bus.js",
+            "node.js",
+            "engine.js",
+            "loadtasks.js",
+            "particles.js",
+            "text.js",
+            "timer.js",
+            "tweens.js",
+            "windows.js"
+        ],
+        "src/": [
+            "loading.js",
+            "main.js"
+        ]
+    },
+    "options": {
+        "__supportedLangs": [
+            "en"
+        ],
+        "__goodResolution": {
+            "x": 960,
+            "y": 540
+        },
+        "__defaultTextProperties": {}
+    },
+    "res": [
+        [
+            "atlas",
+            "build_res/atlas-0.png?",
+            "build_res/atlas-0.json?"
+        ],
+        [
+            "layout",
+            "main.json"
+        ],
+        [
+            "shaders",
+            "base.f",
+            "base.v",
+            "c.f",
+            "part.f",
+            "part.v",
+            "partnc.f",
+            "partnc.v",
+            "super1.f",
+            "super2.f"
+        ]
+    ],
+    "build_targets": {}
+}

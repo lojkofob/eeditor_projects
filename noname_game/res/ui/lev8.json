@@ -1,0 +1,2131 @@
+{
+  "packed": [
+    {
+      "s": {
+        "px": 1,
+        "py": 1,
+        "y": 1,
+        "x": 1
+      },
+      "c": "#6f6573",
+      "_": [
+        {
+          "s": {
+            "y": 756,
+            "x": 617
+          },
+          "n": "pole",
+          "_": [
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -86,
+                "y": 89,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 169,
+                "y": 50,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 172,
+                "y": -258,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 170,
+                "y": 94,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -180,
+                "y": -87,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -82,
+                "y": 262,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -96,
+                "y": -262,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -179,
+                "y": -173,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -86,
+                "y": -135,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -89,
+                "y": -177,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 256,
+                "y": -218,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 262,
+                "y": -84,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -181,
+                "y": -260,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 259,
+                "y": -132,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 258,
+                "y": -175,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -232,
+                "y": -349,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 261,
+                "y": 135,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -92,
+                "y": -352,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 261,
+                "y": -349,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 266,
+                "y": -44,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 260,
+                "y": 48,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -88,
+                "y": 44,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 216,
+                "y": -348,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -9,
+                "y": -352,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -258,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 84,
+                "y": -258,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 130,
+                "y": -351,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 257,
+                "y": 262,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -49,
+                "y": -397,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 83,
+                "y": -351,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 170,
+                "y": 138,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 173,
+                "y": 182,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 129,
+                "y": 260,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 170,
+                "y": 261,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 84,
+                "y": 261,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 177,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 45,
+                "y": 262,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 174,
+                "y": -351,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -47,
+                "y": -259,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -189,
+                "y": -344,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 170,
+                "y": -174,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 172,
+                "y": -133,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 38,
+                "y": -352,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 262,
+                "y": -2,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 259,
+                "y": -260,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 169,
+                "y": 5,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 257,
+                "y": 88,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 168,
+                "y": -88,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 168,
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 124,
+                "y": 95,
+                "z": -10
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 214,
+                "y": 92,
+                "z": -10
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 212,
+                "y": 260,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 256,
+                "y": 224,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": {}
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 126,
+                "y": 180,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": 127,
+                "y": 219,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": {}
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 216,
+                "y": 180,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": 217,
+                "y": 219,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 171,
+                "y": 217,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 85,
+                "y": 222,
+                "z": -1
+              }
+            },
+            {
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": 166,
+                "y": -215,
+                "z": -1
+              }
+            },
+            {
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": 257,
+                "y": -306,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 221,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": -307,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -51,
+                "y": -305,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -50,
+                "y": -220,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": -219,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 126,
+                "y": -259,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 43,
+                "y": -259,
+                "z": -1
+              }
+            },
+            {
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -142,
+                "y": -351,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 44,
+                "x": 44
+              },
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -175,
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -83,
+                "y": 218,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -87,
+                "y": -91,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -83,
+                "y": 176,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 9,
+                "y": 263,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -91,
+                "y": 6,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 44,
+                "x": 44
+              },
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -180,
+                "y": -215,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -84,
+                "y": 134,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -176,
+                "y": 5,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -269,
+                "y": -220,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -268,
+                "y": -264,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -267,
+                "y": -89,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -226,
+                "y": -88,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -274,
+                "y": -348,
+                "z": -1
+              }
+            },
+            {
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -270,
+                "y": -306,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 44,
+                "x": 44
+              },
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -50,
+                "y": -351,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -176,
+                "y": 49,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -173,
+                "y": 88,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -174,
+                "y": 134,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -174,
+                "y": 174,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -218,
+                "y": 169,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -174,
+                "y": 256,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -133,
+                "y": 306,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -44,
+                "y": 304,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -143,
+                "y": -396,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": -222,
+                "y": -134,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -177,
+                "y": -133,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": {}
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -223,
+                "y": -176,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -268,
+                "y": -135,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": -218,
+                "y": 216,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -317,
+                "y": -309,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 302,
+                "y": -306,
+                "z": -1
+              }
+            },
+            {
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -129,
+                "y": 264,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 44,
+                "x": 44
+              },
+              "c": "#e9ff8c",
+              "i": "gem1",
+              "n": "mover",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 10,
+                "cbg": false,
+                "cby": true,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "moveFriends",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.5"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 24,
+                    "x": 34
+                  },
+                  "fi": 1,
+                  "c": 0,
+                  "__alpha": 0.7,
+                  "i": "arrow",
+                  "o": {
+                    "x": 2
+                  }
+                }
+              ],
+              "o": {
+                "x": -40,
+                "y": 259,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -88,
+                "y": -41,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -269,
+                "y": -176,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": {}
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -174,
+                "y": 215,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": -217,
+                "y": 257,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": {}
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 2,
+                "y": 220,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 257,
+                "y": 177,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 176,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 42,
+                "x": 42
+              },
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "B": "hsv",
+              "o": {
+                "x": 87,
+                "y": 177,
+                "z": -1
+              }
+            }
+          ]
+        },
+        {
+          "s": {
+            "y": 814,
+            "x": 965
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "n": "grid",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1
+        }
+      ]
+    }
+  ]
+}

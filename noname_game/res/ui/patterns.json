@@ -1,0 +1,8191 @@
+{
+  "packed": [
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv"
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 44
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -44,
+                "y": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -44
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -11,
+        "y": -281
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv"
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 44
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 44,
+                "y": 45
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -12,
+        "y": -17
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 47
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 91,
+                "y": 1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 135,
+                "y": 2
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -190,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "y": -1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -871,
+        "y": 270
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 48
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 138
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 94
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 2,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -146,
+            "y": -50,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 270,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -1,
+                "y": -1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -298,
+        "y": 265,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -41,
+                "y": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -130,
+                "y": 2
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -86
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -102,
+            "y": -8,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 180,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 1,
+                "y": -2,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 276,
+        "y": 265,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -49
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -138
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -93
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -3,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -145,
+            "y": 40,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 90,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 4,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 852,
+        "y": 260,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -44,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 43,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -874,
+        "y": 532
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": -45,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 46,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -299,
+        "y": 533
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 43,
+                "y": -44
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -46,
+                "y": -41
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": -43
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45,
+                "y": 45
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -44,
+                "y": 48
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 46
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45,
+                "y": 4
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 276,
+        "y": 531
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45,
+                "y": -43,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45,
+                "y": -43,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "red",
+              "ud": {
+                "aot": false,
+                "spin": {},
+                "asd": true,
+                "cbm": true,
+                "pt": 2,
+                "hdf": true,
+                "onActivated": "selectDir, spawn red",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -44,
+                "y": 42,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -10
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 851,
+        "y": 531
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 45,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45,
+                "y": 2,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 3,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -20,
+        "y": 1646
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 47
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 91,
+                "y": 1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 135,
+                "y": 2
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -190,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -868,
+        "y": 1080
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 48
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 138
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 94
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -146,
+            "y": -50,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "R": 270,
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -296,
+        "y": 1083,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -41,
+                "y": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -130,
+                "y": 2
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -86
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -102,
+            "y": -8,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "R": 180,
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 276,
+        "y": 1082,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -49
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -138
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -93
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -145,
+            "y": 40,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "R": 90,
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 850,
+        "y": 1080,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -3,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 47,
+                "y": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 47,
+                "y": -47,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -47,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -42,
+                "y": -47,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -42,
+                "y": -3,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -43,
+                "y": 40,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 40,
+                "z": -1
+              }
+            },
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 41,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -150,
+            "y": -1,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -22,
+        "y": 1361,
+        "z": -4
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 90,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 4,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 90,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 46,
+                "y": -41,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 90,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 44,
+                "y": 44,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 90,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -46,
+                "y": 45,
+                "z": -1
+              }
+            },
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "R": 90,
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -45,
+                "y": -39,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -10
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 851,
+        "y": 799
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#aed46e",
+              "i": "gem1",
+              "n": "redr",
+              "ud": {
+                "aot": false,
+                "pt": 2,
+                "spin": {},
+                "cbm": true,
+                "hdf": true,
+                "ros": false,
+                "onActivated": "spawn white",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 4,
+                "z": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 43,
+                "y": -44
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -46,
+                "y": -41
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": -43
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45,
+                "y": 45
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -44,
+                "y": 48
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 46
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45,
+                "y": 4
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pinkr",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "aot": false,
+                "ros": false,
+                "roa": false,
+                "mfts": true,
+                "onActivated": "moveFriends, spawn white, rotate",
+                "onTap": "activate",
+                "onSpawn": "autodir"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": 0.926,
+                  "__alpha": 0.7,
+                  "i": "prt1",
+                  "R": 45,
+                  "bl": 2,
+                  "o": {
+                    "x": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 277,
+        "y": 799
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -865,
+        "y": 1938
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": 46,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -293,
+        "y": 1941
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -48,
+                "y": 2,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 285,
+        "y": 1941
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -46,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 862,
+        "y": 1942
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 45,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45,
+                "y": 2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 44,
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45,
+                "y": 42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -46,
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45,
+                "y": 42,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -2,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 864,
+        "y": 1669
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 1,
+                "y": -42,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 44,
+                "y": -44,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 43,
+                "y": 3,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#53cb46",
+              "i": "gem1",
+              "n": "green",
+              "ud": {
+                "aot": false,
+                "pt": 4,
+                "ai": {},
+                "cbg": true,
+                "cn": {},
+                "cnf": {},
+                "aos": false,
+                "cbd": false,
+                "onSpawn": "setInterval 1",
+                "onInterval": "convertFriend green",
+                "onTap": "activate",
+                "onActivated": "convertIn white"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -845,
+        "y": 2280
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 46,
+                "y": 1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -46,
+                "y": 1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 309,
+        "y": 2545
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": -43
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -3,
+                "y": 42
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#a6a969",
+              "i": "gem1",
+              "n": "pink",
+              "ud": {
+                "pt": 3,
+                "spin": "",
+                "cbg": false,
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn pink",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 309,
+        "y": 2270
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 1,
+                "y": -46,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": 43,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 889,
+        "y": 2271
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "s": {
+                "y": 44,
+                "x": 44
+              },
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 47,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -46,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 895,
+        "y": 2543
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -50,
+                "y": -1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 93,
+                "y": 2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 43,
+                "y": 3,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -94,
+                "y": -2,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "ud": {
+                "cbm": true,
+                "cbg": true,
+                "cby": true,
+                "pt": 7
+              },
+              "B": "hsv",
+              "o": {
+                "y": -3,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -273,
+        "y": 2270
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "y": -43,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "y": 92,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 2,
+                "y": 45,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -3,
+                "y": -89,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "ud": {
+                "cbm": true,
+                "cbg": true,
+                "cby": true,
+                "pt": 7
+              },
+              "B": "hsv",
+              "o": {
+                "y": -3,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -269,
+        "y": 2544
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 45,
+                "y": -1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -2,
+                "y": -43,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 2,
+                "y": 45,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -47,
+                "z": -1
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "ud": {
+                "cbm": true,
+                "cbg": true,
+                "cby": true,
+                "pt": 7
+              },
+              "B": "hsv",
+              "o": {
+                "y": -3,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -41
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -45
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 45
+              }
+            },
+            {
+              "c": "#54547e",
+              "i": "gem1",
+              "n": "white",
+              "ud": {
+                "pt": 1,
+                "spin": {},
+                "asd": true,
+                "aot": false,
+                "onActivated": "selectDir, spawn white",
+                "onTap": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 45
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -10
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -843,
+        "y": 2545
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 1,
+                "y": 48,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 3,
+                "y": -45,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 889,
+        "y": 2816
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": -46,
+                "y": 5,
+                "z": -1
+              }
+            },
+            {
+              "c": "#ffb881",
+              "i": "gem1",
+              "n": "blue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 5,
+                "cbg": true,
+                "cby": true,
+                "cbm": true,
+                "accel_factor": false,
+                "onActivated": "resetInterval 2",
+                "onInterval": "activateFriends",
+                "onTap": "activate",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "y": -1,
+                "z": -1
+              }
+            },
+            {
+              "c": "#9ca575",
+              "i": "gem1",
+              "R": 45,
+              "n": "pinkblue",
+              "ud": {
+                "aot": false,
+                "ai": {},
+                "pt": 6,
+                "cbg": false,
+                "cby": false,
+                "cbm": false,
+                "accel_factor": false,
+                "onActivated": "rotate",
+                "onInterval": "activateFriends, moveFriends, spawn pinkblue",
+                "onTap": "activate",
+                "onSpawn": "setInterval 0.7"
+              },
+              "B": "hsv",
+              "_": [
+                {
+                  "s": {
+                    "y": 18,
+                    "x": 18
+                  },
+                  "c": "#b16666",
+                  "__alpha": 1.9,
+                  "i": "prt1",
+                  "R": 45,
+                  "o": {
+                    "x": 12,
+                    "y": 14
+                  }
+                }
+              ],
+              "o": {
+                "x": 46,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "c": "#ffd55f",
+              "i": "gem1",
+              "n": "bluea",
+              "ud": {
+                "cby": true,
+                "cbg": true,
+                "cbm": true,
+                "aos": false,
+                "ai": {},
+                "icba": true,
+                "accel_factor": false,
+                "onSpawn": "setInterval 0.2",
+                "onInterval": "activate",
+                "onActivated": "activateFriends",
+                "pt": 8
+              },
+              "B": "hsv",
+              "o": {
+                "x": -1,
+                "y": 1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": 895,
+        "y": 3093
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": -44,
+                "z": -10
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": 46,
+                "z": -10
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "ud": {
+                "cbm": true,
+                "cbg": true,
+                "cby": true,
+                "pt": 7
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": -1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": 46,
+                "z": -10
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": -41,
+                "z": -10
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -278,
+        "y": 2836
+      }
+    },
+    {
+      "s": {
+        "y": 257,
+        "x": 562
+      },
+      "c": 0.121,
+      "_": [
+        {
+          "s": {
+            "y": 172,
+            "x": 170
+          },
+          "_S": {
+            "x": 1.4,
+            "y": 1.375
+          },
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": -147,
+            "y": -6
+          }
+        },
+        {
+          "i": "arrow",
+          "o": {
+            "y": -6
+          }
+        },
+        {
+          "s": {
+            "y": 164,
+            "x": 166
+          },
+          "S": 1.375,
+          "__alpha": 0.1,
+          "i": "res/grid.png?",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "o": {
+            "x": 155,
+            "y": -4
+          }
+        },
+        {
+          "s": {
+            "y": 236,
+            "x": 229
+          },
+          "n": "src",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 50,
+                "y": 1,
+                "z": -10
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -43,
+                "y": 4,
+                "z": -10
+              }
+            },
+            {
+              "c": "#16161d",
+              "i": "gem1",
+              "n": "black",
+              "ud": {
+                "cbm": true,
+                "cbg": true,
+                "cby": true,
+                "pt": 7
+              },
+              "B": "hsv",
+              "o": {
+                "x": 2,
+                "y": -1,
+                "z": -1
+              }
+            }
+          ],
+          "o": {
+            "x": -147,
+            "y": -6,
+            "z": -1
+          }
+        },
+        {
+          "s": {
+            "y": 228,
+            "x": 230
+          },
+          "n": "dst",
+          "ia": [
+            1,
+            1
+          ],
+          "rx": 1,
+          "ry": 1,
+          "_": [
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": 50,
+                "y": 1,
+                "z": -10
+              }
+            },
+            {
+              "s": {
+                "y": 40,
+                "x": 40
+              },
+              "c": "#baf292",
+              "i": "gem1",
+              "R": 45,
+              "n": "yellow",
+              "ud": {
+                "cbg": true,
+                "cby": false,
+                "aos": false,
+                "ai": {},
+                "aot": false,
+                "df": false,
+                "pt": 9,
+                "onInterval": "destroyFriends",
+                "onTap": "activate",
+                "onActivated": "resetInterval 1.1",
+                "onSpawn": "activate"
+              },
+              "B": "hsv",
+              "o": {
+                "x": -50,
+                "y": 1,
+                "z": -10
+              }
+            }
+          ],
+          "o": {
+            "x": 155,
+            "y": -4,
+            "z": -1
+          }
+        }
+      ],
+      "o": {
+        "x": -278,
+        "y": 3101
+      }
+    }
+  ]
+}

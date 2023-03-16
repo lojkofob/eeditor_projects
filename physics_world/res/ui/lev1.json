@@ -1,0 +1,459 @@
+{
+  "packed": [
+    {
+      "s": {
+        "y": 692,
+        "x": 1435
+      },
+      "c": "#6f6573",
+      "i": "optsbut",
+      "_": [
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ebacbf",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 1,
+            "__frictionAir": 1,
+            "__frictionStatic": 50,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -223,
+            "y": 21,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 1159,
+            "x": 1669
+          },
+          "n": "statci",
+          "_": [
+            {
+              "s": {
+                "y": 100,
+                "x": 978
+              },
+              "c": "#f3c463",
+              "__physics": {
+                "__isStatic": true,
+                "__friction": 0.1,
+                "__frictionAir": 0.01,
+                "__frictionStatic": 0,
+                "__restitution": 0,
+                "__density": 1
+              },
+              "o": {
+                "x": -58,
+                "y": 275
+              }
+            },
+            {
+              "s": {
+                "y": 100,
+                "x": 5000
+              },
+              "c": "#f3c463",
+              "R": 120,
+              "__physics": {
+                "__isStatic": true,
+                "__friction": 0.1,
+                "__frictionAir": 0.01,
+                "__frictionStatic": 0,
+                "__restitution": 0,
+                "__density": 1
+              },
+              "o": {
+                "x": -1570,
+                "y": -1510
+              }
+            },
+            {
+              "s": {
+                "y": 100,
+                "x": 5000
+              },
+              "c": "#f3c463",
+              "R": 60,
+              "__physics": {
+                "__isStatic": true,
+                "__friction": 0.1,
+                "__frictionAir": 0.01,
+                "__frictionStatic": 0,
+                "__restitution": 0,
+                "__density": 1
+              },
+              "o": {
+                "x": 1515,
+                "y": -1555
+              }
+            }
+          ]
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ebacbf",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 100,
+            "__density": 1,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -148,
+            "y": 20,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -75,
+            "y": 21,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ebacbf",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 100,
+            "__density": 1,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -185,
+            "y": -195,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ebacbf",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 100,
+            "__density": 1,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": 66,
+            "y": 16,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ebacbf",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 100,
+            "__density": 1,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": 136,
+            "y": 22,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ebacbf",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 100,
+            "__density": 1,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": 206,
+            "y": 20,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 30,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -179,
+            "y": -47,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 40,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -117,
+            "y": -45,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -153,
+            "y": -156,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "y": -174,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 40,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": 145,
+            "y": -242,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#d0285b",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 20,
+            "__density": 20,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": 179,
+            "y": -49,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 488,
+            "x": 50
+          },
+          "c": "#2e0c4c",
+          "R": 25.2,
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 80,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -14,
+            "y": 25,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#2e0c4c",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 80,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -23,
+            "y": -123,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#2e0c4c",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 10,
+            "__density": 80,
+            "__frictionStatic": 50,
+            "__frictionAir": 1,
+            "__friction": 10
+          },
+          "rx": 2,
+          "o": {
+            "x": -109,
+            "y": -123,
+            "z": -8
+          }
+        },
+        {
+          "s": {
+            "y": 50,
+            "x": 50
+          },
+          "c": "#ffe91a",
+          "__physics": {
+            "angle": 0,
+            "__isStatic": false,
+            "__restitution": 40,
+            "__density": 110,
+            "__frictionStatic": 50,
+            "__friction": 10,
+            "__frictionAir": 0
+          },
+          "rx": 2,
+          "o": {
+            "x": 138,
+            "y": -511,
+            "z": -8
+          }
+        }
+      ],
+      "o": {
+        "y": -12
+      }
+    }
+  ]
+}
